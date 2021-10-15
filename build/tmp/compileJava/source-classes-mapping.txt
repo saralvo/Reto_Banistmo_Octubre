@@ -1,2 +1,4 @@
-com/banistmo/userinterface/InicioDeSesion.java
- com.banistmo.userinterface.InicioDeSesion
+com/banistmo/task/SeleccionarAcercaDeNosotros.java
+ com.banistmo.task.SeleccionarAcercaDeNosotros
+com/banistmo/userinterface/DescargaDocumento.java
+ com.banistmo.userinterface.DescargaDocumento

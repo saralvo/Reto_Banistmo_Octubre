@@ -1,4 +1,4 @@
-com/banistmo/runners/Login.java
- com.banistmo.runners.Login
-com/banistmo/stepdefinitions/LoginStepDefinitions.java
- com.banistmo.stepdefinitions.LoginStepDefinitions
+com/banistmo/runners/Descarga.java
+ com.banistmo.runners.Descarga
+com/banistmo/stepdefinitions/DescargaStepDefinitions.java
+ com.banistmo.stepdefinitions.DescargaStepDefinitions
